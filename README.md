@@ -1,7 +1,7 @@
 # Hospital
 A simple program in Java that manages the hospital patients and doctors.
 
-This is a simple Java program that i made for my Java courses in my university. The project(Hospital folder) contains two packages:
+This is a simple Java program that i made for my Java courses in my university. The project(Hospital_project folder) contains two packages:
 Hospital,
 tuc
 
